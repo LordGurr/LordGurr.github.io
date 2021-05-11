@@ -35,6 +35,17 @@ body {
     overflow: auto;
 }
 
+.boxenLeft{
+  background-color: rgb(216, 138, 48);;
+  width: 50%;
+  padding: 10px;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: auto;
+  height: 120px;
+  overflow: auto;
+}
+
 .boxen1About{
     width: 70%;
     margin: auto;
